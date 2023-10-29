@@ -1,0 +1,7 @@
+.content-btn{
+    &:hover{
+        color: $secondary;
+        background-color: $warning;
+        border-color: $warning;
+    }
+}
